@@ -1,0 +1,5 @@
+import java.util.Scanner;
+Scanner scanner = new Scanner(System.in);
+String string = scanner.nextLine();
+int integer = scanner.nextInt();
+scanner.close();
